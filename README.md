@@ -2,6 +2,12 @@
   Olá, sou Patricia Araujo
 </h1>
 
+<a href="https://github.com/luanalbert">
+  <p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatriciaJAraujo&layout=compact&langs_count=7&theme=vue-dark"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PatriciaJAraujo&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  </p>
+</a>
  
 ##  🤝🏻 &nbsp;Contatos:
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](contatopatriciaaraujo9@gmail.com)
